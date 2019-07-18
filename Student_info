@@ -1,0 +1,60 @@
+/*
+
+1) Class to store Student Info
+		a) name.age.address info
+		b) Getters + setters
+		c) Ability to pass command line parameters
+
+2) Execute
+
+*/
+
+public class Student_Info
+
+{
+	string name,address;
+	int age;
+
+	{
+
+		public String getname()
+
+		{
+
+			return name;
+
+		}
+
+		public String setname(String X)
+
+		{
+
+			name= X;
+
+		}
+
+
+		public String getAdd()
+
+		{
+
+			return address;
+
+		}
+
+		public String setAdd(String Y)
+
+		{
+
+			address=Y;
+
+
+		}
+
+		
+
+	}
+
+
+
+}
